@@ -1,6 +1,6 @@
----
-manufacturer: 
-    - realme
+realme
+manufacturer
+realme 8prp
 
 ---
 
